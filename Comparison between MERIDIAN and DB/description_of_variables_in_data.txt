@@ -1,0 +1,11 @@
+b1: bin locations at L1, t1
+b2: bin locations at L1, steady state
+b3: bin locations at L2, t1
+b4: bin locations at L2, steady state
+%
+m1, m2, m3, m4 are corresponding mean bin fractions
+s1, s2, s3, s4 are the standard errors in those means (calculated from 5 repeats).
+
+kdeg and kdegs are 50000 correlated exponentially distributed rates
+
+dtx are 50000 "single cell" data points. The data is divided in 5 experiments to compute the means (m1, ..) and standard errors (s1, ...)

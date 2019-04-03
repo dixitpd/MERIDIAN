@@ -1,0 +1,2 @@
+(1) Predict bin counts for each basis function:
+	The MATLAB scripts in this directory estimate the bin fractions for each Gaussian basis function situated on a Cartesian grid. The number of grid points and the width of the Gaussians are parameters.
